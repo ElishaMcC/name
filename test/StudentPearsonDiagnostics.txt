@@ -1,0 +1,36 @@
+Diagnostics Information
+	Launch Type: 1.3.0
+	Error Code: SOCKET_RP_76
+
+-----
+User Information
+	Pearson User ID: b23fed48f5104707b6f2d9b03b6cb70d
+	LMS User ID: d148c6f91eba49078ed73e8b9d4ec93f
+
+-----
+Course Information
+	Pearson Course Key: College Algebra
+	Pearson Course ID: 13327098
+	LMS Course ID: 7a954e9663b74d4fbcddf194e8690571
+	Course Role: http://purl.imsglobal.org/vocab/lis/v2/membership#Learner
+	Product Model Type: true
+
+-----
+Organizational Data
+	Organization ID: 552bfbca30043f62232d9ede
+
+-----
+Client Information
+	Client OS: Windows
+	Internet Browser: Chrome (Version 131.0.0.0)
+	Device: Desktop
+
+-----
+Integration Information
+	Consumer Code: Blackboardlearn
+	Version: 3900.108.0-rel.28+dfa83d8
+	Institution Code: University Of South Carolina
+
+-----
+Launch Context Key Information
+	Launch Context Token: 63aa6a00-1095-4dff-b7c2-26b27c7b1a2d
